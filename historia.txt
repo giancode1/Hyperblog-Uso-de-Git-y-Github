@@ -4,3 +4,5 @@ Tiene 25 , nacio en Ambato-Ecuador,
 quiere vivir en todo el mundo
 
 Hoy hablaremos de su historia.
+
+Es alto.
