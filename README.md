@@ -1,2 +1,2 @@
 # Hyperblog
-Un blog increíble 
+Un blog increíble para practicar Git y Github
